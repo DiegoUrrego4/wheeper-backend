@@ -21,7 +21,7 @@ Wheeper empowers consumers to make informed purchasing decisions by comparing pr
 ### Development Setup
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/wheeper-backend.git
+   git clone https://github.com/DiegoUrrego4/wheeper-backend.git
    cd wheeper-backend
 2. Install project dependencies ```go mod tidy```
 3. Configure environment variables
