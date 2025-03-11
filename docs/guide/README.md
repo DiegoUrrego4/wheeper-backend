@@ -33,15 +33,7 @@ Wheeper empowers consumers to make informed purchasing decisions by comparing pr
 go run cmd/main.go
 ```
 
-## Project Documentation
-This project has a ```docsify``` documentation and you can visualize it using the command
-```bash 
-docsify serve docs/guide/
-```
-in the root of the project.
-
 ## Usage
-
 
 
 ## Contributing
